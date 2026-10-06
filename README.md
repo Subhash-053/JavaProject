@@ -1,0 +1,2 @@
+# JavaProject
+based on ai 
